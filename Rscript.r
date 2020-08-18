@@ -10,7 +10,6 @@ library(DT)
 ###############################################################################
 # Read Data
 
-### TRAN_DATA <- read_excel('C:\\Users\\anup2\\Desktop\\TransactionData.xls')
 
 TRAN_DATA <- read_excel('TransactionData.xls')
 
