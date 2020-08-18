@@ -60,6 +60,7 @@ Note: Calculate percent as total of all trips made by all customers during the s
  
 Summarize your observation:
 2. Find the market share of each category from purchase incidences.
+
 | Category | Market | Share | (%)
 | ----- | :-------: | ------- |
 | Cat-11   |        |       | 
@@ -68,11 +69,13 @@ Summarize your observation:
 | Cat-21   |        |       |   
 | Cat-22   |        |       |   
 | Cat-23   |        |       |   
+
 Note: Calculate percent as sum total of all purchase incidence across all categories by all
 customers during the study period.
 
 Summarize your observation:
 3. Cross tabulate the individual category purchase incidences.
+
 |Retailer-2 Retailer-2
 Cat-11 Cat-12 Cat-13 Cat-21 Cat-21 Cat-23
 Retailer-1
