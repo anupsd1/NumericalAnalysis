@@ -211,3 +211,122 @@ Note: Each cell represents sum total of joint purchases.
         <td></td>
     </tr>
 </table>
+
+
+
+
+
+5. Assuming everyone buys one unit of category, tabulate the sales and calculate the market share.
+
+<table>
+    <tr>
+        <td>Category</td>
+        <td>Sales</td>
+        <td>Market Share (%) </td>
+    </tr>
+    <tr>
+        <td>Cat-11</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-12</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-13</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-21</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-22</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-23</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+Find the correlation between the market shares of retailer 1 and retainer2
+
+
+
+6. Find the occassion of purchase indices for each individual category
+
+<table>
+    <tr>
+        <td></td>
+        <td>Category</td>
+        <td>Indices</td>
+        <td>Percent</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Retailer-1</td>
+        <td>Cat-11</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-12</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-13</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="3">Retailer-2</td>
+        <td>Cat-21</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-22</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-23</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+Compare this with the overall purchase indices (question 1) and summarize your observation.
+
+
+
+
+7. Find average distance travelled by the customers.
+<table>
+    <tr>
+        <td>Retailer-1</td>
+        <td colspan="2">Store Distance</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Mean</td>
+        <td>SD</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
