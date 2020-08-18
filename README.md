@@ -73,6 +73,7 @@ Summarize your observation:
 Note: Calculate percent as sum total of all purchase incidence across all categories by all
 customers during the study period.
 
+
 Summarize your observation:
 3. Cross tabulate the individual category purchase incidences.
 
