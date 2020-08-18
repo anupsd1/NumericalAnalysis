@@ -79,16 +79,81 @@ customers during the study period.
 Summarize your observation:
 3. Cross tabulate the individual category purchase incidences.
 
-|Retailer-2 Retailer-2
-Cat-11 Cat-12 Cat-13 Cat-21 Cat-21 Cat-23
-Retailer-1
-Cat-11
-Cat-12
-Cat-13
-Retailer-2
-Cat-21
-Cat-22
-Cat-23
+<table border="1">
+    <tr>
+        <td></td>
+        <td></td>
+        <td colspan="3">Retailer-2</td>
+        <td colspan="3">Retailer-3</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>Cat-11</td>
+        <td>Cat-12</td>
+        <td>Cat-13</td>
+        <td>Cat-21</td>
+        <td>Cat-22</td>
+        <td>Cat-23</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Retailer-1</td>
+        <td>Cat-11</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-12</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-13</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="3">Retailer-2</td>
+        <td>Cat-21</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-22</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-23</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
 Note: Each cell represents sum total of joint purchases.
 Summarize your findings:
 
