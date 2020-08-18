@@ -53,8 +53,7 @@ After carefully reviewing the data answer the following questions.
 | Cat-21 |              | 
 | Cat-22 |              | 
 | Cat-23 |              | 
-Note: Calculate percent as total of all trips made by all customers during the study period.
-
+Note: Calculate percent as total of all trips made by all customers during the study period. 
 Summarize your observation:
 2. Find the market share of each category from purchase incidences.
 | Category | Market | Share | (%)
