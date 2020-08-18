@@ -1,5 +1,3 @@
-# NumericalAnalysis
-Data analysis using the data given in excel file
 Numerical Analysis-I
 You will use following data set for the analysis for which the variable description is given in the
 table below.
@@ -57,8 +55,7 @@ After carefully reviewing the data answer the following questions.
 
 Note: Calculate percent as total of all trips made by all customers during the study period.
 
- 
-Summarize your observation:
+Summarize your observation: 
 2. Find the market share of each category from purchase incidences.
 
 | Category | Market | Share | (%) |
@@ -72,13 +69,9 @@ Summarize your observation:
 
 Note: Calculate percent as sum total of all purchase incidence across all categories by all
 customers during the study period.
-Note: Calculate percent as sum total of all purchase incidence across all categories by all
-customers during the study period.
 
-
-Summarize your observation:
+Summarize your observation: \n
 3. Cross tabulate the individual category purchase incidences.
-
 <table border="1">
     <tr>
         <td></td>
@@ -155,5 +148,6 @@ Summarize your observation:
 </table>
 
 Note: Each cell represents sum total of joint purchases.
-Summarize your findings:
+Summarize your findings: \n
+
 
