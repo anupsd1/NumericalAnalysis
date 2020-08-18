@@ -47,7 +47,7 @@ After carefully reviewing the data answer the following questions.
 1. Tabulate the purchase incidences of each category.
 
 | Category | Incidences | Percent
-| ----- | :-------: |      |
+| ----- | :-------: |  -----    |
 | Cat-11 |          |   
 | Cat-12 |                |  
 | Cat-13 |               | 
