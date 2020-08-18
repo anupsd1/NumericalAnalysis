@@ -54,8 +54,8 @@ After carefully reviewing the data answer the following questions.
 | Cat-23 |                |        |
 
 Note: Calculate percent as total of all trips made by all customers during the study period.
+ 
 
-Summarize your observation: 
 2. Find the market share of each category from purchase incidences.
 
 | Category | Market | Share | (%) |
@@ -70,7 +70,6 @@ Summarize your observation:
 Note: Calculate percent as sum total of all purchase incidence across all categories by all
 customers during the study period.
 
-Summarize your observation: \n
 3. Cross tabulate the individual category purchase incidences.
 <table border="1">
     <tr>
@@ -148,6 +147,67 @@ Summarize your observation: \n
 </table>
 
 Note: Each cell represents sum total of joint purchases.
-Summarize your findings: \n
 
 
+4. Provide the data descriptive of key marketing variables
+
+<table border="1">
+    <tr>
+        <td></td>
+        <td>Category</td>
+        <td colspan="2" align="center">Price</td>
+        <td colspan="2" align="center">Discount</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>Mean</td>
+        <td>S.D.</td>
+        <td>Mean</td>
+        <td>S.D.</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Retailer-1</td>
+        <td>Cat-11</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-12</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-13</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="3">Retailer-2</td>
+        <td>Cat-21</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-22</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cat-23</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
